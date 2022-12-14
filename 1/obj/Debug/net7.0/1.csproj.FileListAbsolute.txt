@@ -1,0 +1,15 @@
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\bin\Debug\net7.0\1.exe
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\bin\Debug\net7.0\1.deps.json
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\bin\Debug\net7.0\1.runtimeconfig.json
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\bin\Debug\net7.0\1.dll
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\bin\Debug\net7.0\1.pdb
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.csproj.AssemblyReference.cache
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.AssemblyInfoInputs.cache
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.AssemblyInfo.cs
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.csproj.CoreCompileInputs.cache
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.dll
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\refint\1.dll
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.pdb
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\1.genruntimeconfig.cache
+D:\Рабочая папка\Учеба\ДЗ\Home Work\Home_Work_12_12_22\1\obj\Debug\net7.0\ref\1.dll
